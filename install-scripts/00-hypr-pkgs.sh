@@ -8,10 +8,16 @@
 
 # add packages wanted here
 Extra=(
-
+neofetch
+brave-beta-bin
+wine-mono
+pacseek
+sc-controller
+sdl2-gamepad-mapper
 )
 
 hypr_package=( 
+swww
 cliphist
 curl 
 grim 
@@ -34,14 +40,14 @@ python-requests
 python-pywal
 python-pyquery
 pyprland 
+qt5-quickcontrols
 qt5ct
 qt6ct
 qt6-svg
 rofi-wayland
 slurp 
 swappy 
-swaync 
-swww 
+swaync  
 waybar
 wget
 wl-clipboard
@@ -49,6 +55,12 @@ wlogout
 xdg-user-dirs
 xdg-utils 
 yad
+libgee
+vala
+sassc
+libpulse
+libgnome-keyring
+org.freedesktop.secret
 )
 
 # the following packages can be deleted. however, dotfiles may not work properly
@@ -64,7 +76,6 @@ mpv-mpris
 nvtop
 nwg-look-bin
 pacman-contrib
-vim
 yt-dlp
 )
 
