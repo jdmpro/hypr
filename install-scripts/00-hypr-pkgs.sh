@@ -30,6 +30,12 @@ imagemagick
 jq
 kitty
 kvantum
+libgee
+vala
+sassc
+libpulse
+libgnome-keyring
+org.freedesktop.secrets
 nano  
 network-manager-applet 
 pamixer 
@@ -56,19 +62,13 @@ wlogout
 xdg-user-dirs
 xdg-utils 
 yad
-libgee
-vala
-sassc
-libpulse
-libgnome-keyring
-org.freedesktop.secret
 )
 
 # the following packages can be deleted. however, dotfiles may not work properly
 hypr_package_2=(
 brightnessctl 
 btop
-cava-git
+cava
 eog
 gnome-system-monitor
 mousepad 
@@ -84,6 +84,7 @@ yt-dlp
 uninstall=(
   dunst
   mako
+  gvim
 )
 
 ## WARNING: DO NOT EDIT BEYOND THIS LINE IF YOU DON'T KNOW WHAT YOU ARE DOING! ##
