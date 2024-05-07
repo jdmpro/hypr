@@ -35,7 +35,7 @@ vala
 sassc
 libpulse
 libgnome-keyring
-org.freedesktop.secrets
+gnome-keyring
 nano  
 network-manager-applet 
 pamixer 
