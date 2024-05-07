@@ -20,6 +20,7 @@ hypr_package=(
 swww
 cliphist
 curl 
+file-roller
 grim 
 gvfs 
 gvfs-mtp
