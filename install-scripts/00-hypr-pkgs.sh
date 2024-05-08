@@ -35,7 +35,6 @@ glib2
 libgee
 libpulse
 libgnome-keyring
-gnome-keyring
 nano  
 network-manager-applet 
 pamixer 
