@@ -151,8 +151,6 @@ ask_custom_option "-Type AUR helper" "paru or yay" aur_helper
 printf "\n"
 ask_yes_no "-Do you have any nvidia gpu in your system?" nvidia
 printf "\n"
-ask_yes_no "-Install GTK themes (required for Dark/Light function)?" gtk_themes
-printf "\n"
 ask_yes_no "-Do you want to configure Bluetooth?" bluetooth
 printf "\n"
 ask_yes_no "-Do you want to install Thunar file manager?" thunar
@@ -194,10 +192,6 @@ execute_script "hyprland.sh"
 
 if [ "$nvidia" == "Y" ]; then
     execute_script "nvidia.sh"
-fi
-
-if [ "$gtk_themes" == "Y" ]; then
-    execute_script "gtk_themes.sh"
 fi
 
 if [ "$bluetooth" == "Y" ]; then
