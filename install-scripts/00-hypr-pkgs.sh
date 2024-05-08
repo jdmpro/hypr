@@ -9,8 +9,8 @@
 # add packages wanted here
 Extra=(
 neofetch
-brave-beta-bin
-#wine-mono
+brave-bin
+wine-mono
 pacseek
 sc-controller
 sdl2-gamepad-mapper
