@@ -69,6 +69,7 @@ hypr_package_2=(
 brightnessctl 
 btop
 cava
+dracula-gtk-theme
 eog
 gnome-system-monitor
 mousepad 
