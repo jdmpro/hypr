@@ -12,8 +12,6 @@ aur_helper="yay"
 ############ use : "Y" or "N"
 ###-Do you have any nvidia gpu in your system?
 nvidia="Y"
-###-Install GTK themes (required for Dark/Light function)?
-gtk_themes="Y"
 ###-Do you want to configure Bluetooth?
 bluetooth="Y"
 ###-Do you want to install Thunar file manager?
