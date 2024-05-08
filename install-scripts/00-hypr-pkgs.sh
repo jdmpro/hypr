@@ -30,9 +30,9 @@ imagemagick
 jq
 kitty
 kvantum
+granite
+glib2
 libgee
-vala
-sassc
 libpulse
 libgnome-keyring
 gnome-keyring
@@ -62,6 +62,7 @@ wlogout
 xdg-user-dirs
 xdg-utils 
 yad
+zenity
 )
 
 # the following packages can be deleted. however, dotfiles may not work properly
