@@ -85,7 +85,6 @@ yt-dlp
 uninstall=(
   dunst
   mako
-  gvim
 )
 
 ## WARNING: DO NOT EDIT BEYOND THIS LINE IF YOU DON'T KNOW WHAT YOU ARE DOING! ##
