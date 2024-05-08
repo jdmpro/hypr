@@ -10,7 +10,7 @@
 Extra=(
 neofetch
 brave-beta-bin
-wine-mono
+#wine-mono
 pacseek
 sc-controller
 sdl2-gamepad-mapper
@@ -46,7 +46,7 @@ polkit-gnome
 python-requests
 python-pywal
 python-pyquery
-pyprland 
+#pyprland 
 qt5-quickcontrols
 qt5ct
 qt6ct
