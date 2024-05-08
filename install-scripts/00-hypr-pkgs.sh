@@ -46,7 +46,7 @@ polkit-gnome
 python-requests
 python-pywal
 python-pyquery
-#pyprland 
+pyprland 
 qt5-quickcontrols
 qt5ct
 qt6ct
