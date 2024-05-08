@@ -10,7 +10,7 @@ nvidia_pkg=(
   nvidia-settings
   nvidia-utils
   libva
-  libva-nvidia-driver-git
+  libva-nvidia-driver
 )
 
 ## WARNING: DO NOT EDIT BEYOND THIS LINE IF YOU DON'T KNOW WHAT YOU ARE DOING! ##
